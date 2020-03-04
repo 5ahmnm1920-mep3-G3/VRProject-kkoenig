@@ -24,7 +24,7 @@ Low-Poly Simple Nature Pack by JustCreate
 Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-5 %
+20 %
 
 ### Limitations: 
 None
