@@ -1,8 +1,8 @@
 # VRProject-kkoenig
 
 ### Project description: 
-This little 3D VR (using SteamVR) project demonstrates a scene switch implemented with c#. 
-The VR user has to grab the trash on the plant and put it into a trashcan. Then the scene switches to another planet, where you have to collect a new trash. 
+This little 3D VR (using SteamVR) project demonstrates a environment puzzle game. 
+The VR user has to grab the trash and put it into a trashcan, but he mustn't put the natural elements into it, otherwise the globe will start rotating.
  
 ### Development platform: 
 Windows 10, 
@@ -19,9 +19,12 @@ You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S.
 Clone the project, run the project. 
 
 ### Third party material: 
+Stylized Earth by In Your Face
+Low-Poly Simple Nature Pack by JustCreate
+Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-1 %
+5 %
 
 ### Limitations: 
 None
