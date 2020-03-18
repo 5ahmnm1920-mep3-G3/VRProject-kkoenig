@@ -24,7 +24,7 @@ Clone the project, run the project.
 - Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-30 %
+60 %
 
 ### Limitations: 
 None
