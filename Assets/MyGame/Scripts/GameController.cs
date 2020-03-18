@@ -4,17 +4,22 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    void OnTriggerEnter(Collider theCollision) // C#, type first, name in second
+    [SerializeField]
+    GameObject Trashcan;
+
+    void OnTriggerEnter(Collider theCollision)
     {
         if (theCollision.gameObject.tag == "Trash")
-        // By using {}, the condition apply to that entire scope, instead of the next line.
         {
+            ScoreScript.scoreValue += 10;
             Debug.Log("trash");
+            Destroy(theCollision.gameObject);
         }
-
-        else if (theCollision.gameObject.tag == "Nature")
+        else
         {
-            Debug.Log("nature");
+            ScoreScript.scoreValue -= 10;
+            Debug.Log("Nature");
+            Destroy(theCollision.gameObject);
         }
     }
 }
