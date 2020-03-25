@@ -20,7 +20,7 @@ Clone the project, run the project.
 
 ### Screenshot  
 <div>
-<img src="./Screenshots/VRGame.JPG" width="300">
+<img src="Screenshots/VRGame.JPG" width="300">
 </div>
 
 ### Third party material: 

@@ -1,6 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
-
 public class EarthSpinScript : MonoBehaviour {
     public float speed = 10f;
 

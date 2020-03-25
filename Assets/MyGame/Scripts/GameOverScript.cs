@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class GameOverScript : MonoBehaviour
@@ -22,7 +20,7 @@ public class GameOverScript : MonoBehaviour
            txt.enabled = true;
         }
 
-        else if (ScoreScript.scoreValue == -50)
+        else if (ScoreScript.scoreValue < 0)
         {
             txt.text = "YOU LOST! DON'T LITTER NATURE";
             txt.enabled = true;
