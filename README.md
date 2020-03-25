@@ -18,13 +18,18 @@ Oculus Rift S/Rift/Vive
 You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S.
 Clone the project, run the project. 
 
+### Screenshot  
+<div>
+<img src="./Screenshots/VRGame.JPG" width="300">
+</div>
+
 ### Third party material: 
 - Stylized Earth by In Your Face
 - Low-Poly Simple Nature Pack by JustCreate
 - Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-60 %
+90 %
 
 ### Limitations: 
 None
