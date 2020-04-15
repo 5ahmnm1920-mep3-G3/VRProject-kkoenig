@@ -29,11 +29,13 @@ Clone the project, run the project.
 - Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-90 %
+95 %
 
 ### Limitations: 
 None
 
 ### Lessons Learned: 
+- Unity Setup for VR Game
+- using Debug Mode
 
 Copyright by Kathrin19
