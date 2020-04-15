@@ -2,7 +2,7 @@
 
 ### Project description: 
 This little 3D VR (using SteamVR) project demonstrates a environment puzzle game. 
-The VR user has to grab the trash and put it into a trashcan, but he mustn't put the natural elements into it, otherwise the score will go down.
+The VR user has to grab the trash and put it into a trashcan, but he mustn't put the natural elements into it, otherwise the score will go down and sooner or later he will die.
  
 ### Development platform: 
 Windows 10, 
@@ -29,7 +29,7 @@ Clone the project, run the project.
 - Trash Low Poly Cartoon Pack by BlankfaceStanislav
 
 ### Project state: 
-95 %
+100 %
 
 ### Limitations: 
 None
@@ -37,5 +37,6 @@ None
 ### Lessons Learned: 
 - Unity Setup for VR Game
 - using Debug Mode
+- changing color of objects using a script
 
 Copyright by Kathrin19

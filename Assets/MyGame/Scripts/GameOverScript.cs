@@ -20,7 +20,7 @@ public class GameOverScript : MonoBehaviour
            txt.enabled = true;
         }
 
-        else if (ScoreScript.scoreValue < 0)
+        else if (ScoreScript.scoreValue <= -30)
         {
             txt.text = "YOU LOST! DON'T LITTER NATURE";
             txt.enabled = true;
