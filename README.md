@@ -19,12 +19,12 @@ You need Unity, SteamVR Plugin (imported and installed), a Rift/Vive/Rift S.
 Clone the project, run the project. 
 
 ### Screenshot 
-## Idea
+#### Idea
 <div>
 <img src="Screenshots/idea.PNG" width="300">
 </div>
 
-## Final 
+#### Final 
 <div>
 <img src="Screenshots/VRgame_final.jpg" width="300">
 </div>
