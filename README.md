@@ -26,7 +26,7 @@ Clone the project, run the project.
 
 ## Final 
 <div>
-<img src="Screenshots/VRGame.JPG" width="300">
+<img src="Screenshots/VRgame_final.jpg" width="300">
 </div>
 
 ### Third party material: 
