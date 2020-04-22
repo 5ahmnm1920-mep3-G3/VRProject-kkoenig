@@ -3,8 +3,7 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    [SerializeField]
-    GameObject Trashcan;
+    [SerializeField] GameObject Trashcan;
     [SerializeField] private AudioSource audioSrc;
     [SerializeField] private AudioClip positiveSound;
     [SerializeField] private AudioClip negativeSound;
@@ -29,7 +28,7 @@ public class GameController : MonoBehaviour
             Trashcan.GetComponent<Renderer>().material.color = new Color(0.679f, 0.328f, 0.323f);
             StartCoroutine(ResetColorTrashcan());
             Destroy(theCollision.gameObject);
-            audioSrc.PlayOneShot(negativeSound, 0.5f);
+            audioSrc.PlayOneShot(negativeSound, 1f);
         }
     }
     public IEnumerator ResetColorTrashcan()
