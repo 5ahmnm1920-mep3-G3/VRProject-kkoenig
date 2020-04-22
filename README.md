@@ -26,13 +26,14 @@ Clone the project, run the project.
 
 #### Final 
 <div>
-<img src="Screenshots/VRgame_final.jpg" width="300">
+<img src="Screenshots/VRgame_withposter.jpg" width="300">
 </div>
 
 ### Third party material: 
 - Stylized Earth by In Your Face
 - Low-Poly Simple Nature Pack by JustCreate
 - Trash Low Poly Cartoon Pack by BlankfaceStanislav
+- Audio from freesound.org
 
 ### Project state: 
 100 %
